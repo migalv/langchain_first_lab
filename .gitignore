@@ -20,3 +20,6 @@ env/
 # Miscellaneous
 .DS_Store
 *.bak
+
+# Environment variables
+.env
