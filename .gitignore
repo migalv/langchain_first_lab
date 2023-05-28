@@ -1,0 +1,22 @@
+# Compiled Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+venv/
+env/
+
+# IDE-specific files
+.idea/
+*.iml
+
+# Miscellaneous
+.DS_Store
+*.bak
